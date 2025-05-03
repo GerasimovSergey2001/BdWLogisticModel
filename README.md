@@ -68,5 +68,5 @@ The **Beta-Discrete-Weibull (BdW) Logistic** model integrates the flexibility of
 ---
 
 ## Theoretical Inference
-- []
+- [Link](https://github.com/GerasimovSergey2001/BdWLogisticModel/blob/main/BdWLogistic.pdf)
 ---
